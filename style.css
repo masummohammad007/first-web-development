@@ -1,0 +1,19 @@
+.sign_up {
+    width: 30%;
+    height: 600px;
+    float: left;
+    background-image: url(images/IMG_0340.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    border: 3px solid black;
+    box-sizing: border-box;
+    margin-right: 10px;
+    padding: 40px;
+}
+
+.sign_up input {
+    width: 40%;
+    height: 40px;
+    border: 1px solid blue;
+    margin: 20px;
+}
